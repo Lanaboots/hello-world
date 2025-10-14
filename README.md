@@ -1,5 +1,5 @@
 # hello-world
 
-My name is Lanaboots and I am learning how to code in html. 
-I want to learn other languages but I want to master one before I try to understand more. 
-I like to cook and design art. 
+My name is Alanna and I am coding in html, css, javascript, and Python. 
+I am also aspiring to start my career in tech. 
+I like to cook and design art. I am also learning how to model in blender.

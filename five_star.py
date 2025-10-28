@@ -4,7 +4,7 @@
 rating = float(input("How many stars would you like to give Al's Pizza?"))
 
 if rating > 4.5:
-  print("Extraodinary!")
+  print("Extrarodinary!")
 elif rating > 4:
   print("Excellent!")
 elif rating > 3:
